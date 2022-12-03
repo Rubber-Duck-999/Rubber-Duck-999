@@ -12,16 +12,6 @@ Here are some ideas to get you started:
   - ReactJS
 
 Languages and Tools:
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  </div>
-</div>
-  
 <style>
 .row {
   display: flex;
@@ -37,5 +27,17 @@ Languages and Tools:
 .column img {
   margin-top: 8px;
   vertical-align: middle;
+  width: 100px;
 }
 </style>
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  </div>
+</div>
+  
+
