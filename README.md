@@ -12,32 +12,33 @@ Here are some ideas to get you started:
   - ReactJS
 
 Languages and Tools:
-<style>
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
 
-.column {
-  flex: 50%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100px;
-}
-</style>
-<div class="row">
-  <div class="column">
-    <img style="width:100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="row">
+    <div class="column">
+      <img src="icons/aws.png" style="width:80%">
+      <img src="icons/golang.svg" style="width:50%">
+      <img src="icons/cmake.svg" style="width:50%">
+      <img src="icons/raspberrypi.svg" style="width:50%">
+    </div>
+    <div class="column">
+      <img src="icons/ubuntu.svg" style="width:50%">
+      <img src="icons/java.svg" style="width:50%">
+      <img src="icons/javascript.svg" style="width:50%">
+      <img src="icons/flask.svg" style="width:50%">
+    </div>
+    <div class="column">
+      <img src="icons/cplusplus.svg" style="width:50%">
+      <img src="icons/react.svg" style="width:50%">
+      <img src="icons/docker.svg" style="width:50%">
+      <img src="icons/python.svg" style="width:50%">
+      <img src="icons/spring.svg" style="width:50%">
+    </div>
   </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  </div>
-</div>
-  
+</body>
 
