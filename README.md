@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Rubber-Duck-999/Rubber-Duck-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rubber-Duck-999** here, I am a Software Engineer. I started in Electronics but I have been involved in a lot of projects. All of the software you will find her eis my personal ideas. Happy for any of them to be used or forked if anyone is interested.
 
-Here are some ideas to get you started:
+What I'm currently doing:
 
 - 🔭 I’m currently working on House Guard
   - [House Guard Service](https://github.com/Rubber-Duck-999/HouseGuardServices)
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   - Python
   - ReactJS
 
-Languages and Tools:
+Languages and Tools Ive used (here and elsewhere):
 
 <!DOCTYPE html>
 <html>
