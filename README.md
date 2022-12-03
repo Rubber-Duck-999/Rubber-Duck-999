@@ -22,7 +22,7 @@ Languages and Tools:
   <div class="row">
     <div class="column">
       <img src="icons/aws.png" style="width:30%">
-      <img src="icons/golang.svg" style="width:20%">
+      <img src="icons/golang.svg" style="width:5%">
       <img src="icons/cmake.svg" style="width:20%">
       <img src="icons/raspberrypi.svg" style="width:20%">
     </div>
