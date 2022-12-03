@@ -4,12 +4,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on House Guard
+  - [House Guard Service](https://github.com/Rubber-Duck-999/HouseGuardServices)
+  - [House Guard Alarm](https://github.com/Rubber-Duck-999/HouseGuard-AlarmServices)
+- 🌱 I’m currently learning
+  - Python
+  - ReactJS
+
+Languages and Tools:
+
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+
+
 
