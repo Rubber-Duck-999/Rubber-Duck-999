@@ -32,7 +32,7 @@ Languages and Tools:
 </style>
 <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img style="width:100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   </div>
   <div class="column">
