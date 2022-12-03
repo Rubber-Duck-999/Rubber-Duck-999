@@ -12,31 +12,23 @@ Here are some ideas to get you started:
   - ReactJS
 
 Languages and Tools:
-<div align>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="200"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="200"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="200"/>
-
 <div class="row">
   <div class="column">
-    <img src="wedding.jpg">
-    <img src="rocks.jpg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   </div>
   <div class="column">
-    <img src="underwater.jpg">
-    <img src="ocean.jpg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   </div>
 </div>
-
+  
+<style>
 .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
-/* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
   padding: 0 4px;
@@ -46,3 +38,4 @@ Languages and Tools:
   margin-top: 8px;
   vertical-align: middle;
 }
+</style>
