@@ -9,6 +9,7 @@ What I'm currently doing:
   - [House Guard Alarm](https://github.com/Rubber-Duck-999/HouseGuard-AlarmServices)
 - 🌱 I’m currently learning
   - Python
+  - Golang
   - ReactJS
 
 Languages and Tools Ive used (here and elsewhere):
