@@ -6,7 +6,6 @@ What I'm currently doing:
 
 - 🔭 I’m currently working on House Guard
   - [House Guard Service](https://github.com/Rubber-Duck-999/HouseGuardServices)
-  - [House Guard Alarm](https://github.com/Rubber-Duck-999/HouseGuard-AlarmServices)
 - 🌱 I’m currently learning
   - Python
   - Golang
