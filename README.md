@@ -21,9 +21,9 @@ Languages and Tools Ive used (here and elsewhere):
   <div class="row">
     <div class="column">
       <img src="icons/aws.png" style="width:10%">
-      <img src="icons/golang.svg" style="width:5%">
-      <img src="icons/cmake.svg" style="width:5%">
-      <img src="icons/raspberrypi.svg" style="width:5%">
+      <img src="icons/golang.svg" style="width:10%">
+      <img src="icons/cmake.svg" style="width:10%">
+      <img src="icons/raspberrypi.svg" style="width:10%">
     </div>
     <div class="column">
       <img src="icons/ubuntu.svg" style="width:5%">
