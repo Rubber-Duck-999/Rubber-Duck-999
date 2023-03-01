@@ -26,17 +26,17 @@ Languages and Tools Ive used (here and elsewhere):
       <img src="icons/raspberrypi.svg" style="width:10%">
     </div>
     <div class="column">
-      <img src="icons/ubuntu.svg" style="width:5%">
-      <img src="icons/java.svg" style="width:5%">
-      <img src="icons/javascript.svg" style="width:5%">
-      <img src="icons/flask.svg" style="width:5%">
+      <img src="icons/ubuntu.svg" style="width:10%">
+      <img src="icons/java.svg" style="width:10%">
+      <img src="icons/javascript.svg" style="width:10%">
+      <img src="icons/flask.svg" style="width:10%">
     </div>
     <div class="column">
-      <img src="icons/cplusplus.svg" style="width:5%">
-      <img src="icons/react.svg" style="width:5%">
-      <img src="icons/docker.svg" style="width:5%">
-      <img src="icons/python.svg" style="width:5%">
-      <img src="icons/spring.svg" style="width:5%">
+      <img src="icons/cplusplus.svg" style="width:10%">
+      <img src="icons/react.svg" style="width:10%">
+      <img src="icons/docker.svg" style="width:10%">
+      <img src="icons/python.svg" style="width:10%">
+      <img src="icons/spring.svg" style="width:10%">
     </div>
   </div>
 </body>
