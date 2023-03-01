@@ -9,6 +9,7 @@ What I'm currently doing:
   - Golang
   - Java Spring Boot
   - ReactJS
+  - 한국어
 
 Languages and Tools Ive used (here and elsewhere):
 
