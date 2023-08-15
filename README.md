@@ -12,7 +12,7 @@ What I'm currently doing:
   - 한국어
  
 Current Projects:
-- Reote control robot
+- Remote control robot
 - Kotlin App Course
 
 Languages and Tools Ive used (here and elsewhere):
