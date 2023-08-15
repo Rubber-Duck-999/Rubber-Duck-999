@@ -10,6 +10,10 @@ What I'm currently doing:
   - Java Spring Boot
   - ReactJS
   - 한국어
+ 
+Current Projects:
+- Reote control robot
+- Kotlin App Course
 
 Languages and Tools Ive used (here and elsewhere):
 
