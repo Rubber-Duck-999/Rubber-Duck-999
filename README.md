@@ -9,7 +9,6 @@ What I'm currently doing:
   - Golang
   - Java Spring Boot
   - ReactJS
-  - 한국어
  
 Current Projects:
 - Remote control robot
