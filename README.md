@@ -12,7 +12,6 @@ What I'm currently doing:
  
 Current Projects:
 - Remote control robot
-- Kotlin App Course
 
 Languages and Tools Ive used (here and elsewhere):
 
