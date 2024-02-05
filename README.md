@@ -6,7 +6,6 @@ What I'm currently doing:
 
 - 🌱 I’m currently learning
   - Python
-  - Golang
   - Java Spring Boot
   - ReactJS
  
