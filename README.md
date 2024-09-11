@@ -12,23 +12,23 @@ Languages and Tools Ive used (here and elsewhere):
 <body>
   <div class="row">
     <div class="column">
-      <img src="icons/aws.png" style="width:50%">
-      <img src="icons/golang.svg" style="width:10%">
-      <img src="icons/cmake.svg" style="width:10%">
-      <img src="icons/raspberrypi.svg" style="width:10%">
+      <img src="icons/aws.png">
+      <img src="icons/golang.svg">
+      <img src="icons/cmake.svg">
+      <img src="icons/raspberrypi.svg">
     </div>
     <div class="column">
-      <img src="icons/ubuntu.svg" style="width:10%">
-      <img src="icons/java.svg" style="width:10%">
-      <img src="icons/javascript.svg" style="width:10%">
-      <img src="icons/flask.svg" style="width:10%">
+      <img src="icons/ubuntu.svg">
+      <img src="icons/java.svg">
+      <img src="icons/javascript.svg">
+      <img src="icons/flask.svg">
     </div>
     <div class="column">
-      <img src="icons/cplusplus.svg" style="width:10%">
-      <img src="icons/react.svg" style="width:10%">
-      <img src="icons/docker.svg" style="width:10%">
-      <img src="icons/python.svg" style="width:10%">
-      <img src="icons/spring.svg" style="width:10%">
+      <img src="icons/cplusplus.svg">
+      <img src="icons/react.svg">
+      <img src="icons/docker.svg">
+      <img src="icons/python.svg">
+      <img src="icons/spring.svg">
     </div>
   </div>
 </body>
